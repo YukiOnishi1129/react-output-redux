@@ -1,4 +1,4 @@
-# react-output-context
+# react-output-redux
 Reactアウトプットサンプル
 
 状態管理にredux (redux toolkit)を使用した構成
